@@ -1,0 +1,45 @@
+#main {
+}
+
+.cell {
+    width: 30px;
+    height: 30px;
+    border: dotted;
+    border-radius: 4px;
+    display: inline-block;
+    margin: -1px;
+}
+
+.head {
+    width: 30px;
+    height: 30px;
+    border: dotted;
+    border-radius: 4px;
+    display: inline-block;
+    margin: -1px;
+    background-color: black;
+}
+
+.sbody {
+    width: 30px;
+    height: 30px;
+    border: dotted;
+    border-radius: 4px;
+    display: inline-block;
+    margin: -1px;
+    background-color: aqua;
+}
+
+.tail {
+    width: 30px;
+    height: 30px;
+    border: dotted;
+    border-radius: 4px;
+    display: inline-block;
+    margin: -1px;
+    background-color: gray;
+}
+
+#apple {
+    background-color: red;
+}
